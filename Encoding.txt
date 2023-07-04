@@ -1,0 +1,74 @@
+#Heading 
+
+##Sub Heading 
+
+###Sub Sub Heading 
+
+*italic* 
+
+**bold** 
+
+***bold italic*** 
+
+--- Horizontal rule 
+
+[link name] 
+
+ 
+
+MCQ (for now this is also true and false) 
+
+{Question Text?
+-Wrong // feedback 
+-Wrong // feedback 
+=correct // feedback 
+-Wrong // feedback} 
+
+ 
+
+Cloze – pick from list for whole text block
+{The quick <brown> fox jumped over the <lazy> dog.} 
+
+Cloze – pick from option 
+{The quick <brown,red> fox jumped over the <lazy,happy> dog.} 
+
+ Cloze – typed answer
+{The quick <=brown> fox jumped over the <=lazy> dog.} 
+
+
+
+
+Fill in the blank (user types answer} 
+{The quick _brown_ fox jumped over the _lazy_ dog.} 
+
+ 
+
+Short answer 
+{What is the capital of France? =Paris} 
+will have notation to indicate if caps should be strictly followed and if spacing should be strict 
+ 
+
+Long Answer
+
+Why would you go on holiday to Paris? {{Eifel Tower, bread, wine}} 
+
+Matching pairs 
+{pair 1a - pair 1b
+pair 2a - pair 2b
+pair 3a - pair 3b}
+ 
+
+Sequence/ranking 
+{first->second->third->forth}
+or
+{first
+->second
+->third
+->forth}
+ 
+
+Self marking (gives bullet points that the user ticks) 
+{Question text?
+[]bullet 1
+[]bullet 2
+[]bullet 3}
