@@ -14,7 +14,26 @@
 
 [link name] 
 
- 
+~sub script~
+^super script^
+
+:emoji:
+
+==highlight==
+
+~~strike through~~
+
+| table       | Heading     |
+| ----------- | ----------- |
+| heading     | content     |
+| heading     | content     |
+or
+|table|Heading|
+|---|------|
+|heading|content|
+|heading|content|
+
+
 
 MCQ (for now this is also true and false) 
 
